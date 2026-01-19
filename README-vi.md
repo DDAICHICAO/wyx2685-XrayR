@@ -1,4 +1,4 @@
-# XrayR
+﻿# XrayR
 
 [![](https://img.shields.io/badge/TgChat-@XrayR讨论-blue.svg)](https://t.me/XrayR_project)
 [![](https://img.shields.io/badge/Channel-@XrayR通知-blue.svg)](https://t.me/XrayR_channel)
@@ -68,7 +68,7 @@ Dự án này chỉ là học tập và phát triển và bảo trì cá nhân c
 ### Một cài đặt chính
 
 ```
-wget -N https://raw.githubusercontent.com/wyx2685/XrayR-release/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/DDAICHICAO/XrayR-release/master/install.sh && bash install.sh
 ```
 
 

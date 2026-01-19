@@ -1,4 +1,4 @@
-## 本分支需要配合修改过的V2board面板进行使用
+﻿## 本分支需要配合修改过的V2board面板进行使用
 https://github.com/wyx2685/v2board
 
 # XrayR
@@ -74,7 +74,7 @@ A Xray backend framework that can easily support many panels.
 ### 一键安装
 
 ```
-wget -N https://raw.githubusercontent.com/leaderen/wyx2685-XrayR-scripts/refs/heads/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/DDAICHICAO/wyx2685-XrayR-scripts/refs/heads/master/install.sh && bash install.sh
 ```
 
 ### 手动安装

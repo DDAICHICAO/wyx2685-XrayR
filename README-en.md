@@ -1,4 +1,4 @@
-# XrayR
+﻿# XrayR
 
 [![](https://img.shields.io/badge/TgChat-@XrayR讨论-blue.svg)](https://t.me/XrayR_project)
 [![](https://img.shields.io/badge/Channel-@XrayR通知-blue.svg)](https://t.me/XrayR_channel)
@@ -71,7 +71,7 @@ This project is just my personal learning and development and maintenance. I do 
 ### 1-Click installation
 
 ```
-wget -N https://raw.githubusercontent.com/wyx2685/XrayR-release/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/DDAICHICAO/XrayR-release/master/install.sh && bash install.sh
 ```
 
 
